@@ -13,7 +13,7 @@
 
 ## OTA Web Updater 
 
-put image here
+![Screenshot](image/demo.png)
 
 - Upload OTA Routine Serially: The first step is to upload the sketch containing OTA routine serially. It’s a mandatory step, so that you’re able to do the next updates/uploads over-the-air.
 
